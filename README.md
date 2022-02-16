@@ -57,4 +57,4 @@ x1 = -1.0
 
 # Revert commit
 
-["Wrong commit to revert" [0622bd5]](0622bd58af3545e92d2d13cef2487505ad689bf6)
+["Wrong commit to revert" [0622bd5]](https://github.com/vadimkononenko/EquationSolver/commit/0622bd58af3545e92d2d13cef2487505ad689bf6)
